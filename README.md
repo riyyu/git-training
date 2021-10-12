@@ -1,1 +1,3 @@
 test
+
+Squash 1
